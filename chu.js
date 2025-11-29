@@ -1,4 +1,4 @@
-const text = "♡vo iu PhuongThao";
+const text = "L";
 const textEl = document.getElementById("text");
 let i = 0;
 

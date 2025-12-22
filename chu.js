@@ -1,4 +1,4 @@
-const text = "L";
+const text = "VoiuPhuongThao";
 const textEl = document.getElementById("text");
 let i = 0;
 

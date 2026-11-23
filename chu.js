@@ -1,4 +1,4 @@
-const text = "chuc giang sinh vui ve";
+const text = "chuc vo yeu giang sinh vui ve";
 const textEl = document.getElementById("text");
 let i = 0;
 
